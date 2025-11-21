@@ -1,6 +1,6 @@
 Gestor de Alumnos y Cursos (Tkinter + SQLite)
 Este es un proyecto sencillo que hice para practicar Python. Es una aplicación con Tkinter donde se pueden gestionar alumnos y cursos. Todo se guarda en una base de datos SQLite, así que los datos no se borran cuando cierras el programa.
-Qué puede hacer?
+Qué podemos hacer?
 
 Alumnos:
 
