@@ -1,29 +1,31 @@
-Gestor de Alumnos y Cursos (Tkinter + SQLite)
-Este es un proyecto sencillo que hice para practicar Python. Es una aplicación con Tkinter donde se pueden gestionar alumnos y cursos. Todo se guarda en una base de datos SQLite, así que los datos no se borran cuando cierras el programa.
-Qué podemos hacer?
+🎓 Gestor de Alumnos y Cursos (Tkinter + SQLite)
 
-Alumnos:
+¡Bienvenido! 👋 Este es un proyecto sencillo que desarrollé para practicar Python, Tkinter y SQLite.
+Es una aplicación de escritorio donde puedes gestionar alumnos y cursos de manera rápida y fácil.
+📁 Todo se almacena en una base de datos SQLite, así que tus datos permanecen incluso después de cerrar el programa.
 
-* Agregar alumnos con nombre y correo.
-* Mostrar todos los alumnos en una tabla.
-* Borrar alumnos seleccionados.
-* Revisa si el alumno ya existe para no repetirlo.
+👥 ¿Qué puedes hacer con los Alumnos?
 
-Cursos:
+🔹 ➕ Agregar nuevos alumnos con nombre y correo
+🔹 📋 Mostrar todos los alumnos en una tabla interactiva
+🔹 ❌ Eliminar alumnos seleccionados
+🔹 🔎 Comprobar automáticamente si el alumno ya existe para evitar duplicados
 
-* Crear cursos con nombre y descripción.
-* Ver los cursos en una tabla.
-* Borrar cursos seleccionados.
-* También revisa si ya existe antes de guardarlo.
+📚 ¿Y con los Cursos?
 
-Tecnologías usadas:
+🔸 ➕ Crear cursos con nombre y descripción
+🔸 📂 Ver los cursos en una tabla ordenada
+🔸 🗑️ Eliminar cursos seleccionados
+🔸 🛡️ Verificación previa para evitar duplicados
 
-* Python 3
-* Tkinter para la interfaz gráfica
-* SQLite3 para la base de datos
-* ttk.Treeview para las tablas
+🛠️ Tecnologías utilizadas
 
-Este proyecto lo hice para aprender más sobre Tkinter y bases de datos. Puedes modificarlo como quieras.
+🐍 Python 3
+🖥️ Tkinter para la interfaz gráfica
+💾 SQLite3 para la base de datos local
+📊 ttk.Treeview para mostrar tablas bonitas y funcionales
 
+🎯 Objetivo del proyecto
 
-
+Este proyecto lo hice para aprender más sobre interfaces gráficas con Tkinter y la gestión de datos con SQLite.
+✨ ¡Siéntete libre de modificarlo, mejorarlo o adaptarlo a tus necesidades!
